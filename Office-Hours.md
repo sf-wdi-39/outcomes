@@ -1,5 +1,3 @@
-# Office Hours 
-
 ## **2 Scheduled Office Hours per Cohort** - 
 
 We love meeting and talking with you, please don't be shy! 
