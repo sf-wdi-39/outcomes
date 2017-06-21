@@ -10,12 +10,16 @@
 ## Resources
 #### [Resources + One Pagers](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/DSI-Resources-and-One-Pagers)
 ## Programming 
-#### [Week 1: Intro to Outcomes](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-1:-Intro-to-Outcomes)
-#### [Week 2: Job Search Foundations + Market Landscape](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-2:-Job-Search-Foundations-Market-Landscape)
-#### [Week 3: Office Hours](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Office-Hours)
-#### [Week 4: Informational Interviews](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-4:-Informational-Interviews)
-#### [Week 5: LinkedIn + Resumes](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-5:-Linkedin---Resumes)
-#### [Week 6: Portfolios aka Non-Technical Report/Case Study](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-6:-Portfolios-aka-Non-Technical-Report-Case-Study)
-#### [Week 8: Interview Tips](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-8:-Interview-Tips)
-#### [Week 10: GA Alumni Profile + Cover Letters](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-10:-GA-Alumni-Profile---Cover-Letters)
-#### [Week 11: Life After DSI](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
+#### [Week 1: DSI Outcomes Intro](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-1:-Intro-to-Outcomes)
+#### Week 2: No Programming due to 4th of July
+#### [Week 3: Job Search Foundations + Market Landscape](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-2:-Job-Search-Foundations-Market-Landscape)
+#### [Week 4: Info Interviews + Mentorships](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Office-Hours)
+#### [Week 5: LinkedIn + Resumes](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-4:-Informational-Interviews)
+#### [Week 6: Catch Your Breath](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-5:-Linkedin---Resumes)
+#### [Week 7: The Presentation Layer](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-6:-Portfolios-aka-Non-Technical-Report-Case-Study)
+#### [Week 8: Behavioral Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-8:-Interview-Tips)
+#### [Week 9: GA Profiles](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-10:-GA-Alumni-Profile---Cover-Letters)
+#### [Week 10: Technical Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
+#### No Class or Programming on September 4th - Memorial Day 
+#### [Week 11: Ask the Experts](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
+#### [Week 12/13: Life After DSI](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
