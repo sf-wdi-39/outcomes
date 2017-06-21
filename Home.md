@@ -3,7 +3,7 @@
 #### [Meet your Outcomes Team](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Welcome-to-Outcomes!)
 #### [Outcomes Attendance](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/outcomes-attendance)
 #### [Outcomes Homework](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/homework)
-#### [Schedule for Outcomes Programming](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/DSI-6-Outcomes---Schedule) 
+#### [Schedule for Outcomes Programming](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/DSI-PLUS-Outcomes-Schedule) 
 #### [Office Hours](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Office-Hours) 
 ## Communication
 #### [Communicating with Outcomes](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/communicating-with-outcomes)
