@@ -4,7 +4,7 @@
 #### [Outcomes Attendance](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Outcomes-Attendance)
 #### [Outcomes Homework](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Homework)
 #### [Schedule for Outcomes Programming](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/DSI-PLUS-Outcomes-Schedule) 
-#### [Office Hours](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Office-Hours) 
+#### [Office Hours](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Office-Hours) 
 ## Communication
 #### [Communicating with Outcomes](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/communicating-with-outcomes)
 ## Resources
