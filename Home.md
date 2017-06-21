@@ -16,7 +16,7 @@
 #### [Week 4: Info Interviews + Mentorships](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Office-Hours)
 #### [Week 5: LinkedIn + Resumes](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-4:-Informational-Interviews)
 #### [Week 6: Catch Your Breath](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-5:-Linkedin---Resumes)
-#### [Week 7: The Presentation Layer](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-6:-Portfolios-aka-Non-Technical-Report-Case-Study)
+#### [Week 7: The Presentation Layer](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-7:-The-Presentation-Layer)
 #### [Week 8: Behavioral Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-8:-Interview-Tips)
 #### [Week 9: GA Profiles](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-10:-GA-Alumni-Profile---Cover-Letters)
 #### [Week 10: Technical Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
