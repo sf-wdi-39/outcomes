@@ -2,7 +2,7 @@
 ## Administrative
 #### [Meet your Outcomes Team](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Welcome-to-Outcomes!)
 #### [Outcomes Attendance](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Outcomes-Attendance)
-#### [Outcomes Homework](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/homework)
+#### [Outcomes Homework](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Homework)
 #### [Schedule for Outcomes Programming](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/DSI-PLUS-Outcomes-Schedule) 
 #### [Office Hours](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Office-Hours) 
 ## Communication
