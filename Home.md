@@ -19,7 +19,7 @@
 #### [Week 7: The Presentation Layer](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-7:-The-Presentation-Layer)
 #### [Week 8: Behavioral Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-8:-Interview-Tips)
 #### [Week 9: GA Profiles](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-10:-GA-Alumni-Profile---Cover-Letters)
-#### [Week 10: Technical Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
+#### [Week 10: Technical Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-10:-Technical-Interview)
 #### No Class or Programming on September 4th - Memorial Day 
 #### [Week 11: Ask the Experts](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Ask-The-Experts)
 #### [Week 12/13: Life After DSI](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
