@@ -8,7 +8,7 @@
 ## Communication
 #### [Communicating with Outcomes](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Communicating-with-Outcomes)
 ## Resources
-#### [Resources + One Pagers](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/DSI-Resources---One-Pagers)
+#### [Resources + One Pagers](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/DSI-Resources-and-One-Pagers)
 ## Programming 
 #### [Week 1: Intro to Outcomes](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Week-1:-Intro-to-Outcomes)
 #### [Week 2: Job Search Foundations + Market Landscape](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Week-2:-Job-Search-Foundations-Market-Landscape)
