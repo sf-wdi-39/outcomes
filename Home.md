@@ -13,7 +13,7 @@
 #### [Week 1: DSI Outcomes Intro](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-1:-Intro-to-Outcomes)
 #### Week 2: No Programming due to 4th of July
 #### [Week 3: Job Search Foundations + Market Landscape](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-2:-Job-Search-Foundations-Market-Landscape)
-#### [Week 4: Info Interviews + Mentorships](https://git.generalassemb.ly/DSI-SF-6/outcomes/wiki/Office-Hours)
+#### [Week 4: Info Interviews + Mentorships](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-4:-Informational-Interviews---Mentorship)
 #### [Week 5: LinkedIn + Resumes](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-4:-Informational-Interviews)
 #### [Week 6: Catch Your Breath](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-6:-Catch-Your-Breath)
 #### [Week 7: The Presentation Layer](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-7:-The-Presentation-Layer)
