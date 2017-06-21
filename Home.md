@@ -21,5 +21,5 @@
 #### [Week 9: GA Profiles](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-10:-GA-Alumni-Profile---Cover-Letters)
 #### [Week 10: Technical Interviewing](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
 #### No Class or Programming on September 4th - Memorial Day 
-#### [Week 11: Ask the Experts](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
+#### [Week 11: Ask the Experts](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Ask-The-Experts)
 #### [Week 12/13: Life After DSI](https://git.generalassemb.ly/dsi-plus/DSI-PLUS-OUTCOMES/wiki/Week-11:-Life-After-DSI)
